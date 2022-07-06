@@ -1,4 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
 #Wed Jul 06 09:18:24 BRT 2022
-grtech-rfid-vh88-2.1.grtech-rfid-vh88>=
-grtech-rfid-vh88-2.1.pom>=
+vh88-2.1.grtech-rfid-vh88>=
+vh88-2.1.pom>=
