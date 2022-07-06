@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>grtech.rfid.vh88</groupId>
-  <artifactId>grtech-rfid-vh88</artifactId>
+  <groupId>grtech.rfid</groupId>
+  <artifactId>vh88</artifactId>
   <versioning>
     <release>2.1</release>
     <versions>
